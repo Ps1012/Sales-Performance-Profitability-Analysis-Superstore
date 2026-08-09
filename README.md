@@ -1,4 +1,3 @@
-# Sales-Performance-Profitability-Analysis-Superstore
 # Sales Performance & Profitability Analysis — Superstore
 
 > Analysing 9,994 retail orders across 4 years to identify profitability drivers,
